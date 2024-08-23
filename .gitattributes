@@ -1,0 +1,4 @@
+* text=auto
+*.java text eol=lf
+*.g4 text eol=lf
+*.ml text eol=lf
