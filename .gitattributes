@@ -2,3 +2,5 @@
 *.java text eol=lf
 *.g4 text eol=lf
 *.ml text eol=lf
+*.dune text eol=lf
+*.dune-project text eol=lf
